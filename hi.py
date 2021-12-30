@@ -1,19 +1,9 @@
-import sys
-input = sys.stdin.readline()
+def solution(mylist):
+   return list(map(int, mylist))
 
-sum=0
-num, base = map(int, input.split(' '))
-num_list = str(num)
-num_list_rev = num_list[::-1]
-for i in range(len(num_list)):
-   sum += int(num_list_rev[i]) * (base**i)
-   
-print(sum)
-
-
-
-
-
+if __name__ == '__main__':
+   mylist = ['1','100', '33']
+   print(solution(mylist))
 # print('hello')
 # print('hi')
 

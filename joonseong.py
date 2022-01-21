@@ -1,11 +1,9 @@
-import datetime
-now=datetime.datetime.now()
-month=now.month
-if 3<=month<=5:
-    print("spring")
-elif 6<=month<=8:
-    print("summer")
-elif 9<=month<=11:
-    print("fall")
-else :
-    print("winter")
+dict_a = {
+    "name": "김준성",
+    "age" : 20,
+    "birthday" : "030811"
+}
+
+list_a = ["김준성", 20, "030811"]
+
+print(dict_a["birthday"])

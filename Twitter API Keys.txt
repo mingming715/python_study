@@ -1,0 +1,28 @@
+SNSKeywordAnalysisApp
+
+<API Key>
+WH0Z4wxVWkVvOI96royUm6x9E
+
+<API Key Secret>
+DPDlTAC1kp3y7W1zarlVdht3HzeZEvUKr2U9LXB5bSFtbv4wRe
+
+<Bearer Token>
+AAAAAAAAAAAAAAAAAAAAABJ5ZgEAAAAAEd9urs%2FrG3NIrciY5IMmABlJMUY%3DimWg2ruFwQYOqTQeNxv8ve2eWxHLS7IZFj2yNCJwrEFVhHMlFn
+
+
+KMS-Keyword-Analysis
+
+<API Key>
+0fySeUcSIIMvKw9UZq5noRrlF
+
+<API Key Secret>
+n6qIJ6NTNXaFVXady6s386Gb2pdzyHOcl4Mr23ePnEl1iWv6Yb
+
+<Access Token>
+1497079339472809985-Mf8gzmQX06pX2e00iP1HitnYXOpdd2
+
+<Access Token Secret>
+P60U2Ey5Hmb45moGIDbLzc50xHt3MnJ6aRhZoNeemqqsq
+
+<Bearer Token>
+AAAAAAAAAAAAAAAAAAAAAC55ZgEAAAAAJTjuTChjjytk175YetWoe13b25w%3DSg5lFMs1z5Ob2ZJMaqNdxD9lvWnHs21n4EGYuvPMw0DGAW44If
